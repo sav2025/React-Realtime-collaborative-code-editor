@@ -1,5 +1,4 @@
-javascript
-CopyEdit
+
 import { createStore } from 'redux';
 
 // Initial State
